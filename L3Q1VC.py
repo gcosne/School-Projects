@@ -20,7 +20,7 @@ if(qone == 25):
     cone = 1                            #adds 1 to the results count if correct
 else:
     print('Incorrect!\n')
-    cone = 0                            #adds 0 to the reuslts count if wrong
+    cone = 0                            #adds 0 to the results count if wrong
 
 qtwo = int(input('2. 3*3 = '))
 if(qtwo == 9):
